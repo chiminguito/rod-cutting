@@ -1,0 +1,16 @@
+// gui ed git , comillas dobles son reemplazables
+git init 
+´q´ para salir
+cd "directorio"/ ---> ubicarse en "directorio"
+ls --> mirar contenido de ubicación
+ls -la --> mirar contenido de ubicación, INCLUYENDO OCULTOS
+rm -rf .git  --> remueve el .git para detener el track del proyectols -la
+touch .gitignore --> crea archivo de texto en el que se guardan los archivos y extensiones
+
+// lo que va dentro del  .gitignore
+
+.DS_Store ---> intrsucción de guardar
+desktop.ini --> nombre de un archivo a ignorar
+*.docx --> ignora este formato
+
+//
